@@ -22,7 +22,7 @@ The dataset is only for research purposes. Without permission, it may not be use
 We appreciate your citation if you find our dataset is beneficial.
 
 ```
-@inproceedings{chen2019timeline,
+@inproceedings{chen2021related,
   title={Capturing Relations between Scientific Papers: An Abstractive Model for Related Work Section Generation},
   author={Xiuying Chen, Hind Alamro, Mingzhe Li, Shen Gao, Xiangliang Zhang, Dongyan Zhao, Rui Yan},
   booktitle = {ACL},
