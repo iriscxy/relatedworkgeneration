@@ -1,4 +1,3 @@
-### related work generation
 ### Capturing Relations between Scientific Papers: An Abstractive Model for Related Work Section Generation
 
 This repository contains dataset for the ACL 2021 paper Capturing Relations between Scientific Papers: An Abstractive Model for Related Work Section Generation. 
